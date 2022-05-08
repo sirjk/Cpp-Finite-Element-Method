@@ -1,0 +1,10 @@
+﻿  Źródło.cpp
+C:\Users\user\source\repos\MES_1\MES_1\Źródło.cpp(584,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\MES_1\MES_1\Źródło.cpp(585,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\MES_1\MES_1\Źródło.cpp(587,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\MES_1\MES_1\Źródło.cpp(608,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\MES_1\MES_1\Źródło.cpp(620,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\MES_1\MES_1\Źródło.cpp(629,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\MES_1\MES_1\Źródło.cpp(639,11): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\user\source\repos\MES_1\MES_1\Źródło.cpp(640,11): warning C4305: "=": obcięcie z "double" do "float"
+  MES_1.vcxproj -> C:\Users\user\source\repos\MES_1\Debug\MES_1.exe
